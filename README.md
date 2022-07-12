@@ -1,2 +1,2 @@
-# first-day-demo
-first day demo folder
+# first-day-repo
+first day repo folder
