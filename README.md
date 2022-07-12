@@ -1,2 +1,2 @@
 # first-day-demo
-first day demo folder
+demo of first day
